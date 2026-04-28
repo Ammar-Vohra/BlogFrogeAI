@@ -201,7 +201,7 @@ Ammar Aamir Vohra
 
 AI Engineer • Data Scientist • Machine Learning Developer
 
-<p align="left"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/ammarvohra12"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> </p>
 
 ---
 
