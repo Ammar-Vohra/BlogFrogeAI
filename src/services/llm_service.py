@@ -1,6 +1,9 @@
-from langchain_openai import ChatOpenAI
+from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 load_dotenv()
 
-llm = ChatOpenAI(model="gpt-4.1-mini")
 
+llm = ChatGroq(
+    model="llama-3.1-8b-instant",
+    temperature=0
+)
